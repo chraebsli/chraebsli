@@ -25,7 +25,7 @@ Specialism ICT System Operation. ([Source](https://www.ict-berufsbildung.ch/beru
 <div style="display:flex; align-items:center; justify-content:space-around">
     <a href="https://github.com/chraebsli/"><img src="./media/icons/github.svg" width="50" alt="Github"></a>
     <a href="https://stackoverflow.com/users/15230022/nicholas-krebs"><img src="./media/icons/stackoverflow.png" width="50" alt="Stackoverflow"></a>
-    <a href="https://www.linkedin.com/in/nicholas-krebs-262443204/"><img src="./media/icons/linkedIn.png" width="50" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/nicholas-krebs-262443204/"><img src="./media/icons/linkedin.png" width="50" alt="LinkedIn"></a>
     <a href="https://twitter.com/chraebsli_04"><img src="./media/icons/twitter.png" width="50" alt="Twitter"></a>
     <a href="mailto:nicholas.joel.krebs@gmail.com"><img src="./media/icons/gmail.png" width="50" alt="Gmail"></a>
     <a href="https://www.instagram.com/chraebsli_04/"><img src="./media/icons/instagram.png" width="50" alt="Instagram"></a>
