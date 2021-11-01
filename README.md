@@ -43,14 +43,14 @@ If you want to contact me, please write a mail to [nicholas.joel.krebs@gmail.com
 
 A list of programming, scripting and markup languages I am learning:
 
-| Name          | Progress              |
-| :------------ | :-------------------- |
-| CSS           | advanced +            |
-| HTML          | advanced +            |
-| Javascript    | advanced              |
-| Markdown      | advanced +            |
-| Python        | advanced              |
-| Java          | newcomer              |
+| Name       | Progress   |
+| :--------- | :--------- |
+| CSS        | advanced + |
+| HTML       | advanced + |
+| Javascript | advanced   |
+| Markdown   | advanced + |
+| Python     | advanced   |
+| Java       | newcomer   |
 
 ---
 
