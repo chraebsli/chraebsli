@@ -1,101 +1,49 @@
-# Hi there 👋, I'm Nicholas Krebs/ chraebsli
+# Hi there 👋, I'm chraebsli/ Nicholas Krebs
 
-## Content
+## Social Network
 
-- [About me](#about-me)
-- [Social Media](#social-media)
-- [How to contact me](#how-to-contact-me)
-- [My programming languages](#my-programming-languages)
-- [Projects](#projects)
-  - [Coinchaser](#coinchaser)
-  - [Netlify](#netlify)
-- [References and certificates](#references-and-certificates)
+[![Gmail](https://img.shields.io/badge/-nicholas.joel.krebs@gmail.com-black?style=for-the-badge&logo=Gmail)](mailto:nicholas.joel.krebs@gmail.com)
+[![Github](https://img.shields.io/badge/-chraebsli-black?style=for-the-badge&logo=Github)](https://github.com/chraebsli)
+[![Stackoverflow](https://img.shields.io/badge/-chraebsli-black?style=for-the-badge&logo=Stackoverflow)](https://stackoverflow.com/users/15230022/nicholas-krebs)
+[![Linked in](https://img.shields.io/badge/-Nicholas%20Krebs-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nicholas-krebs-262443204)
+[![Twitter](https://img.shields.io/badge/-chraebsli__04-black?style=for-the-badge&logo=Twitter)](https://twitter.com/chraebsli_04)
+[![Snapchat](https://img.shields.io/badge/-chraebsli__04-black?style=for-the-badge&logo=Snapchat)](https://www.snapchat.com/add/chraebsli_04?share_id=8x--s3YpFkQ&locale=de-CH)
+[![Instagram](https://img.shields.io/badge/-chraebsli__04-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/chraebsli_04)
 
----
+## Technologies
+
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
+![JSON](https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=JSON)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=Markdown)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=GitLab)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20pi-black?style=for-the-badge&logo=Raspberry-pi)
 
 ## About me
 
-I'm a 2nd year student from Switzerland. I am learning Information Technologist, Federal Diploma of Vocational Education and Training
-Specialism ICT System Operation. ([Source](https://www.ict-berufsbildung.ch/berufsbildung/informatikerin-efz-betriebsinformatik#c334))
+I'm a **2nd year student** from **Switzerland**. I am learning **IT** _Federal Diploma of Vocational Education and Training Specialism ICT System Operation_ ([Source of description](https://www.ict-berufsbildung.ch/berufsbildung/informatikerin-efz-betriebsinformatik#c334))
 
----
+I like to build websites and scripting in Javascript or Python.
 
-## Social Media
+## My GitHub Stats
 
-<div style="display:flex; align-items:center; justify-content:space-around">
-    <a href="https://github.com/chraebsli/"><img src="./media/icons/github.svg" width="50" alt="Github"></a>
-    <a href="https://stackoverflow.com/users/15230022/nicholas-krebs"><img src="./media/icons/stackoverflow.png" width="50" alt="Stackoverflow"></a>
-    <a href="https://www.linkedin.com/in/nicholas-krebs-262443204/"><img src="./media/icons/linkedin.png" width="50" alt="LinkedIn"></a>
-    <a href="https://twitter.com/chraebsli_04"><img src="./media/icons/twitter.png" width="50" alt="Twitter"></a>
-    <a href="mailto:nicholas.joel.krebs@gmail.com"><img src="./media/icons/gmail.png" width="50" alt="Gmail"></a>
-    <a href="https://www.instagram.com/chraebsli_04/"><img src="./media/icons/instagram.png" width="50" alt="Instagram"></a>
-</div>
+![My GitHub Stats](https://github-stats-custom.vercel.app/api?username=chraebsli&count_private=true&show_icons=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5&include_all_commits=false&line_height=25&custom_title=My%20GitHub%20stats)
 
----
+## My most used languages
 
-## How to contact me
+![My most used languages](https://github-stats-custom.vercel.app/api/top-langs?username=chraebsli&count_private=true&show_icons=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5&include_all_commits=true&line_height=25&layout=compact&card_width=445&langs_count=9%custom_title=My%20most%20used%20languages)
 
-If you want to contact me, please write a mail to [nicholas.joel.krebs@gmail.com](mailto:nicholas.joel.krebs@gmail.com).
+## Languages I used this week
 
----
+![Languages I used this week](https://github-stats-custom.vercel.app/api/wakatime?username=chraebsli&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5&line_height=25&langs_count=6&custom_title=Languages%20I%20used%20this%20week)
 
-## My programming languages
+## Stats with all accounts
 
-A list of programming, scripting and markup languages I am learning:
-
-| Name       | Progress   |
-| :--------- | :--------- |
-| CSS        | advanced + |
-| HTML       | advanced + |
-| Javascript | advanced   |
-| Markdown   | advanced + |
-| Python     | advanced   |
-| Java       | newcomer   |
-
----
-
-## Projects
-
-A list of my recent projects:
-
-### Coinchaser
-
-> Coinchaser is a game made with pygame I made in spring 2021 in my first year learning Python. Coinchaser was inspired by Snake, Pacman and a few other "old school" games. More information to this game you can find in the Github repository
-
-**Important:**
-
-The game is not up to date and can have a lot of bugs
-
-[Link to repository](https://github.com/chraebsli/pygame)
-
-### Netlify
-
-> Netlify isn't really a project but it is a collection for my web projects.
-
-**Content:**
-
-_Home:_  
-In the home folder there is my self made homepage. Its in german because I am Swiss. The only big code block I copied from the internet is the JS for the formulars. The rest was made by hand without any frameworks.
-
-_Coinchaser:_  
-Coinchaser is a website for the leader board for my project [Coinchaser](#coinchaser). Since the project is inactive, the linking between the website and the game. The website uses a JSON file to display the content.
-
-_Todo:_  
-Todo is the latest project im working on. It will be a web application to write down todos. The data will be stored in cloud and should be connected with accounts. The design and the functions are inspired by [Tasksboard.com](https://tasksboard.com)
-
-_Portfolio old:_  
-This is the first portfolio I made. It is very simple but I don't wanted to delete it.
-
-[Link to repository](https://github.com/chraebsli/netlify)
-
-### Public templates
-
-> Public templates is a repository on which I upload useful templates and other useful stuff I want to share
-
-[Link to repository](https://github.com/chraebsli/public-templates)
-
----
-
-## References and certificates
-
-_I don't have any references or certificates yet._
+![other personal stats](https://github.com/chraebsli/github-stats/blob/master/generated/overview.svg)
+![other language stats](https://github.com/chraebsli/github-stats/blob/master/generated/languages.svg)
