@@ -22,6 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=GitLab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20pi-black?style=for-the-badge&logo=Raspberry-pi)
 
