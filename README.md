@@ -20,10 +20,12 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=Markdown)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
+
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=GitLab)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20pi-black?style=for-the-badge&logo=Raspberry-pi)
 
 ## About me
