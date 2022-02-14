@@ -1,4 +1,4 @@
-# Hi there 👋, I'm chraebsli/ Nicholas Krebs
+# Hi 👋, I'm chraebsli/ Nicholas Krebs
 
 ## Social Network
 
@@ -9,6 +9,8 @@
 [![Twitter](https://img.shields.io/badge/-chraebsli__04-black?style=for-the-badge&logo=Twitter)](https://twitter.com/chraebsli_04)
 [![Snapchat](https://img.shields.io/badge/-chraebsli__04-black?style=for-the-badge&logo=Snapchat)](https://www.snapchat.com/add/chraebsli_04?share_id=8x--s3YpFkQ&locale=de-CH)
 [![Instagram](https://img.shields.io/badge/-chraebsli__04-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/chraebsli_04)
+
+[![My Website](https://img.shields.io/badge/-My_Website-black?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iRWJlbmVfMSIgZGF0YS1uYW1lPSJFYmVuZSAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4MDEuNSA4MDEuNSI+PGRlZnM+PHN0eWxlPi5jbHMtMXtvcGFjaXR5OjA7fS5jbHMtMntmaWxsOiMzMjk2ZmE7fS5jbHMtM3tmaWxsOiNiM2IzYjM7fTwvc3R5bGU+PC9kZWZzPjxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjgwMS41IiBoZWlnaHQ9IjgwMS41Ii8+PHJlY3QgY2xhc3M9ImNscy0yIiB4PSI3MTc2Ljc2IiB5PSI2OTUzLjk5IiB3aWR0aD0iNDMiIGhlaWdodD0iNDg5LjY1IiByeD0iMTkuNSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTM5MDQuMTkgLTg4MjcuMzcpIHJvdGF0ZSgyMCkiLz48cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik02ODU4LjY5LDcxNDRsNC41OC00LjU2QzY4NjEuNjgsNzE0MC44NCw2ODYwLjE2LDcxNDIuMzcsNjg1OC42OSw3MTQ0WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTY4MDAuNDQgLTY3OTkuNTYpIi8+PHBhdGggY2xhc3M9ImNscy0zIiBkPSJNNjg2My4yOCw3MjU5LjYxbC00LjU5LTQuNTZDNjg2MC4xNiw3MjU2LjYzLDY4NjEuNjgsNzI1OC4xNiw2ODYzLjI4LDcyNTkuNjFaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNjgwMC40NCAtNjc5OS41NikiLz48cGF0aCBjbGFzcz0iY2xzLTIiIGQ9Ik02OTUwLjI4LDcyNzUuNjhsLTQ5Ljc5LTQ5LjUydi0uM2EzNSwzNSwwLDAsMS0xLTUxLjgzdi0uMjFsNTAuNzctNTAuNUw3MDY0LDcwMTAuMjNhMjMuNzYsMjMuNzYsMCwwLDAsMC0zMy43NGgwYTI0LjA3LDI0LjA3LDAsMCwwLTMzLjkyLDBsLTE2My43OCwxNjIuOS00LjU4LDQuNTZhODEuMjEsODEuMjEsMCwwLDAtMjEuODksNTUuNTVoMGE4MS4yMSw4MS4yMSwwLDAsMCwyMS44OSw1NS41NWw0LjU5LDQuNTYsMTYzLjc3LDE2Mi45YTI0LjA3LDI0LjA3LDAsMCwwLDMzLjkyLDBoMGEyMy43NiwyMy43NiwwLDAsMCwwLTMzLjc0WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTY4MDAuNDQgLTY3OTkuNTYpIi8+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJNNzQ0OS42LDcyNzUuNjhxMjQuNzUtMjQuNzcsNDkuNTItNDkuNTJ2LS4zYTM1LjEsMzUuMSwwLDAsMCwxLTUxLjgzdi0uMjFsLTUwLjUtNTAuNS0xMTMuMTEtMTEzLjA5YTIzLjg1LDIzLjg1LDAsMCwxLDAtMzMuNzRoMGEyMy44NiwyMy44NiwwLDAsMSwzMy43NSwwbDE2Mi45MiwxNjIuOSw0LjU2LDQuNTZhODEuNCw4MS40LDAsMCwxLDIxLjc4LDU1LjU1aDBhODEuNDMsODEuNDMsMCwwLDEtMjEuNzcsNTUuNTVsLTQuNTcsNC41Ni0xNjIuOTIsMTYyLjlhMjMuODYsMjMuODYsMCwwLDEtMzMuNzUsMGgwYTIzLjg1LDIzLjg1LDAsMCwxLDAtMzMuNzRaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNjgwMC40NCAtNjc5OS41NikiLz48L3N2Zz4=)](https://chraebsli.dev)
 
 ## Technologies
 
@@ -30,9 +32,41 @@
 
 ## About me
 
-I'm a **2nd year student** from **Switzerland**. I am learning **IT** _Federal Diploma of Vocational Education and Training Specialism ICT System Operation_ ([Source of description](https://www.ict-berufsbildung.ch/berufsbildung/informatikerin-efz-betriebsinformatik#c334))
+I'm a **2nd year IT student** from **Switzerland**. I am learning **IT** _Federal Diploma of Vocational Education and Training Specialism ICT System Operation_ ([Source of description](https://www.ict-berufsbildung.ch/berufsbildung/informatikerin-efz-betriebsinformatik#c334))
 
 I like to build websites and scripting in Javascript or Python.
+
+---
+
+## current projects
+
+### Wordle guesser
+
+_Its a Website for helping guessing words for the [Wordle Game](https://www.nytimes.com/games/wordle/)_
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
+
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
+
+[![Readme Card](https://github-stats-custom.vercel.app/api/pin/?username=chraebslii&repo=wordle-guesser&show_owner=true)](https://github.com/chraebslii/netlify)
+
+### Netlify
+
+_Netlify is the repository for my personal web projects. They are all hosted on_
+[![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=Netlify)](https://www.netlify.com/)
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
+
+[![Readme Card](https://github-stats-custom.vercel.app/api/pin/?username=chraebslii&repo=netlify&show_owner=true)](https://github.com/chraebslii/netlify)
+
+---
 
 ## My GitHub Stats
 
