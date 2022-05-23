@@ -4,9 +4,9 @@
 
 [![Gmail](https://img.shields.io/badge/-nicholas.joel.krebs@gmail.com-black?style=for-the-badge&logo=Gmail)](mailto:nicholas.joel.krebs@gmail.com)
 [![Github](https://img.shields.io/badge/-chraebsli-black?style=for-the-badge&logo=Github)](https://github.com/chraebsli)
-[![Stackoverflow](https://img.shields.io/badge/-chraebsli-black?style=for-the-badge&logo=Stackoverflow)](https://stackoverflow.com/users/15230022/nicholas-krebs)
-[![Linked in](https://img.shields.io/badge/-Nicholas%20Krebs-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nicholas-krebs-262443204)
-[![Twitter](https://img.shields.io/badge/-chraebsli__04-black?style=for-the-badge&logo=Twitter)](https://twitter.com/chraebsli_04)
+[![Stackoverflow](https://img.shields.io/badge/-chraebsli-black?style=for-the-badge&logo=Stackoverflow)](https://stackoverflow.com/users/15230022/chraebsli)
+[![Linked in](https://img.shields.io/badge/-chraebsli-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nicholas-krebs-262443204)
+[![Twitter](https://img.shields.io/badge/-chraebsli__dev-black?style=for-the-badge&logo=Twitter)](https://twitter.com/chraebsli_dev)
 [![Snapchat](https://img.shields.io/badge/-chraebsli.dev-black?style=for-the-badge&logo=Snapchat)](https://www.snapchat.com/add/chraebsli.dev?share_id=8x--s3YpFkQ&locale=de-CH)
 [![Instagram](https://img.shields.io/badge/-chraebsli.dev-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/chraebsli.dev)
 
@@ -14,21 +14,32 @@
 
 ## Technologies
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+**advanced:**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
-![JSON](https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=JSON)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=Markdown)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
+
+**beginner:**  
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java)
+![PHP](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
+![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-node.js-black?style=for-the-badge&logo=node.js)
+![Twig](https://img.shields.io/badge/-twig-black?style=for-the-badge&logo=twig)
+
+## Tools
 
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=GitLab)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20pi-black?style=for-the-badge&logo=Raspberry-pi)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=Heroku)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=for-the-badge&logo=Cloudflare)
+
+![JSON](https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=JSON)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=Markdown)
 
 ## About me
 
@@ -38,33 +49,22 @@ I like to build websites and scripting in Javascript or Python.
 
 ---
 
-## current projects
+## Projects
 
-### Wordle guesser
+### Todo App
 
-_Its a Website for helping guessing words for the [Wordle Game](https://www.nytimes.com/games/wordle/)_
+Todoapp is a advanced todo list app. It is written in **Typescript** and **PHP**. It is deployed on **Heroku**.  
+With this project I want to learn project management and the tools Github provides for this. I also want to learn TypeScript/PHP and MySQL.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+Later I want to use React and Node.js.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
+![PHP](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
-
-[![Readme Card](https://github-stats-custom.vercel.app/api/pin/?username=chraebslii&repo=wordle-guesser&show_owner=true)](https://github.com/chraebslii/netlify)
-
-### Netlify
-
-_Netlify is the repository for my personal web projects. They are all hosted on_
-[![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=Netlify)](https://www.netlify.com/)
-
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
-
-[![Readme Card](https://github-stats-custom.vercel.app/api/pin/?username=chraebslii&repo=netlify&show_owner=true)](https://github.com/chraebslii/netlify)
+[![Readme Card](https://github-stats-custom.vercel.app/api/pin/?username=chraebslii&repo=todoapp&show_owner=true)](https://github.com/chraebslii/todoapp)
 
 ---
 
