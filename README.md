@@ -64,7 +64,7 @@ Later I want to use React and Node.js.
 ![PHP](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 
-[![Readme Card](https://github-stats-custom.vercel.app/api/pin/?username=chraebslii&repo=todoapp&show_owner=true)](https://github.com/chraebslii/todoapp)
+[![Readme Card](https://github-stats-custom.vercel.app/api/pin/?username=chraebslii&repo=todoapp&show_owner=true?&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5)](https://github.com/chraebslii/todoapp)
 
 ---
 
