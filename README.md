@@ -79,8 +79,3 @@ Later I want to use React and Node.js.
 ## Languages I used this week
 
 ![Languages I used this week](https://github-stats-custom.vercel.app/api/wakatime?username=chraebsli&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5&line_height=25&langs_count=6&custom_title=Languages%20I%20used%20this%20week)
-
-## Stats with all accounts
-
-![other personal stats](https://github.com/chraebsli/github-stats/blob/master/generated/overview.svg)
-![other language stats](https://github.com/chraebsli/github-stats/blob/master/generated/languages.svg)
