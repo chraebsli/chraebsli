@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-nicholas.joel.krebs@gmail.com-black?style=for-the-badge&logo=Gmail)](mailto:nicholas.joel.krebs@gmail.com)
 [![Github](https://img.shields.io/badge/-chraebsli-black?style=for-the-badge&logo=Github)](https://github.com/chraebsli)
 [![Stackoverflow](https://img.shields.io/badge/-chraebsli-black?style=for-the-badge&logo=Stackoverflow)](https://stackoverflow.com/users/15230022/chraebsli)
-[![Linked in](https://img.shields.io/badge/-chraebsli-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nicholas-krebs-262443204)
+[![Linked in](https://img.shields.io/badge/-Nicholas_Krebs-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nicholas-krebs-262443204)
 [![Twitter](https://img.shields.io/badge/-chraebsli__dev-black?style=for-the-badge&logo=Twitter)](https://twitter.com/chraebsli_dev)
 [![Snapchat](https://img.shields.io/badge/-chraebsli.dev-black?style=for-the-badge&logo=Snapchat)](https://www.snapchat.com/add/chraebsli.dev?share_id=8x--s3YpFkQ&locale=de-CH)
 [![Instagram](https://img.shields.io/badge/-chraebsli.dev-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/chraebsli.dev)
@@ -15,77 +15,88 @@
 ## Technologies
 
 **advanced:**  
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 
-**beginner:**  
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java)
+**not perfect nor worse:**  
 ![PHP](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
-![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-node.js-black?style=for-the-badge&logo=node.js)
 ![Twig](https://img.shields.io/badge/-twig-black?style=for-the-badge&logo=twig)
 
+**beginner:**  
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=Java)
+![vuetify](https://img.shields.io/badge/-vuetify-black?style=for-the-badge&logo=vuetify)
+![express](https://img.shields.io/badge/-express-black?style=for-the-badge&logo=express)
+
 ## Tools
 
+![Webstorm](https://img.shields.io/badge/-Webstorm-black?style=for-the-badge&logo=webstorm)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=for-the-badge&logo=Netlify)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=Heroku)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=for-the-badge&logo=Cloudflare)
 
-![JSON](https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=JSON)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=Markdown)
-
 ## About me
 
-I'm a **2nd year IT student** from **Switzerland**. I am learning **IT** _Federal Diploma of Vocational Education and Training Specialism ICT System Operation_ ([Source of description](https://www.ict-berufsbildung.ch/berufsbildung/informatikerin-efz-betriebsinformatik#c334))
-
-I like to build websites and scripting in Javascript or Python.
+I'm a **2nd year IT student** from **Switzerland**. I am learning IT and I am much interested in Web development. In my free time I like to code and learn new languages or improve them. But I also make music in a brass band and in winter, I like to go snowboarding.
 
 ---
 
-## Projects
+## currently working on
 
-### Todo App
+- personal Website
+- sgrumisberg.ch
+- Todo App
 
-Todoapp is a advanced todo list app. It is written in **Typescript** and **PHP**. It is deployed on **Heroku**.  
-With this project I want to learn project management and the tools Github provides for this. I also want to learn TypeScript/PHP and MySQL.
-
-Later I want to use React and Node.js.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![PHP](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
-
-[![Readme Card](https://github-stats-custom.vercel.app/api/pin/?username=chraebslii&repo=todoapp&show_owner=true?&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5)](https://github.com/chraebslii/todoapp)
+## learn more about these projects
 
 ### personal Website
 
-This is my personal website. It is written in **React** and **TypeScript**. It will be deployed later on **Netlify**.  
-I want to learn React and TypeScript and to create my personal website.
+This is my personal website. It is written in **React** with **TypeScript**. It will be deployed later on **Cloudflare**. I want to learn React and TypeScript and to create my first good personal website.
+I planned to publish this site in August 1st on [chraebsli.dev](https://chraebsli.dev).
 
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=for-the-badge&logo=cloudflare)
 
----
+### sgrumisberg.ch
 
-## My GitHub Stats
+This is a website for a society in my village called "Schützengesellschaft Rumisberg". The Website uses the CMS **Grav** and is deployed on **Heroku**.
+This website will be published in July 10th on [sgrumisberg.ch](https://sgrumisberg.ch).
 
-![My GitHub Stats](https://github-stats-custom.vercel.app/api?username=chraebsli&count_private=true&show_icons=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5&include_all_commits=false&line_height=25&custom_title=My%20GitHub%20stats)
+![Grav](https://img.shields.io/badge/-Grav-black?style=for-the-badge&logo=grav)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=for-the-badge&logo=heroku)
+![Php](https://img.shields.io/badge/-Php-black?style=for-the-badge&logo=php)
 
-## My most used languages
+### Todo App
 
-![My most used languages](https://github-stats-custom.vercel.app/api/top-langs?username=chraebsli&count_private=true&show_icons=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5&include_all_commits=true&line_height=25&layout=compact&card_width=445&langs_count=9%custom_title=My%20most%20used%20languages)
+Todoapp will be an advanced todo list web app. This app will be written in **React** with **Typescript** and the backend in **Express.js**.
+I have no publish date yet, because I am still working on it.
 
-## Languages I used this week
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)
 
-![Languages I used this week](https://github-stats-custom.vercel.app/api/wakatime?username=chraebsli&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5&line_height=25&langs_count=6&custom_title=Languages%20I%20used%20this%20week)
+## [![Readme Card](https://github-stats-custom.vercel.app/api/pin/?username=chraebslii&repo=todoapp&show_owner=true?&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5)](https://github.com/chraebslii/todoapp)
+
+## Some stats
+
+### My GitHub Stats
+
+![GitHub](https://github-stats-custom.vercel.app/api?username=chraebsli&count_private=true&show_icons=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5&include_all_commits=false&line_height=25&custom_title=My%20GitHub%20stats)
+
+### My most used languages
+
+![languages](https://github-stats-custom.vercel.app/api/top-langs?username=chraebsli&count_private=true&show_icons=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5&include_all_commits=true&line_height=25&layout=compact&card_width=445&langs_count=9%custom_title=My%20most%20used%20languages)
+
+### Languages I used this week
+
+_(from wakatime)_
+
+![Languages in this week](https://github-stats-custom.vercel.app/api/wakatime?username=chraebsli&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5&line_height=25&langs_count=6&custom_title=Languages%20I%20used%20this%20week)
