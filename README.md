@@ -95,8 +95,8 @@ I have no publish date yet, because I am still working on it.
 
 ![languages](https://github-stats-custom.vercel.app/api/top-langs?username=chraebsli&count_private=true&show_icons=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5&include_all_commits=true&line_height=25&layout=compact&card_width=445&langs_count=9%custom_title=My%20most%20used%20languages)
 
-### Languages I used this week
+### Total Time coded
 
-_(from wakatime)_
+_since March 28 2022_
 
-![Languages in this week](https://github-stats-custom.vercel.app/api/wakatime?username=chraebsli&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5&line_height=25&langs_count=6&custom_title=Languages%20I%20used%20this%20week)
+![Total Time coded](https://github-stats-custom.vercel.app/api/wakatime?username=chraebsli&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=340,a600ff,00ffd9&hide_border=false&cache_seconds=1800&locale=en&border_radius=5&line_height=25&langs_count=6&custom_title=Total%20Time%20coded)
