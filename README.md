@@ -2,7 +2,7 @@
 
 ## Social Network
 
-[![Gmail](https://img.shields.io/badge/-nicholas.joel.krebs@gmail.com-black?style=for-the-badge&logo=Gmail)](mailto:nicholas.joel.krebs@gmail.com)
+[![Gmail](https://img.shields.io/badge/-contact@chraebsli.dev-black?style=for-the-badge&logo=Gmail)](mailto:contact@chraebsli.dev)
 [![Github](https://img.shields.io/badge/-chraebsli-black?style=for-the-badge&logo=Github)](https://github.com/chraebsli)
 [![Stackoverflow](https://img.shields.io/badge/-chraebsli-black?style=for-the-badge&logo=Stackoverflow)](https://stackoverflow.com/users/15230022/chraebsli)
 [![Linked in](https://img.shields.io/badge/-nicholas--krebs-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nicholas-krebs)
