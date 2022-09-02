@@ -52,6 +52,6 @@ I'm a 3rd year IT student from Switzerland. I am learning IT, and I am much inte
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-<a href="https://github.com/chraebslii/home-dashbaord" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chraebslii&repo=home-dashboard&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/chraebslii/home-dashboard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chraebslii&repo=home-dashboard&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/chraebslii/todolist" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chraebslii&repo=todolist&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br /><br />
