@@ -1,8 +1,6 @@
-Hi 👋 My name is Nicholas Krebs
-===============================
+# Hi 👋 My name is Nicholas Krebs
 
-Web Developer
--------------
+## Web Developer
 
 I'm a 3rd year IT student from Switzerland. I am learning IT, and I am much interested in Web development. In my free time, I like to code and learn new languages or improve them. I also make music in a brass band and in winter, I like to go snowboarding.
 
@@ -12,7 +10,7 @@ I'm a 3rd year IT student from Switzerland. I am learning IT, and I am much inte
 * 🚀  I'm currently working on [Home Dashboard](http://www.nicholas-krebs.ch/project/home-dashboard)
 * 🧠  I'm learning React, Next, Express
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -26,7 +24,7 @@ I'm a 3rd year IT student from Switzerland. I am learning IT, and I am much inte
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 </p>
 
-### Tools
+## Tools
 
 <p align="left">
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
@@ -35,7 +33,7 @@ I'm a 3rd year IT student from Switzerland. I am learning IT, and I am much inte
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
+## Socials
 
 <p align="left">
 <a href="https://www.github.com/chraebsli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
@@ -47,7 +45,7 @@ I'm a 3rd year IT student from Switzerland. I am learning IT, and I am much inte
 <a href="https://www.dev.to/chraebsli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
+## Badges
 
 <b>My GitHub and Code Stats</b>
 
