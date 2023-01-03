@@ -8,7 +8,7 @@ I'm a 3rd year IT student from Switzerland. I am learning IT, and I am much inte
 * 🖥️  See my portfolio at [nicholas-krebs.ch](http://nicholas-krebs.ch)
 * ✉️  You can contact me at [contact@nicholas-krebs.ch](mailto:contact@nicholas-krebs.ch)
 * 🚀  I'm currently working on [Home Dashboard](http://www.nicholas-krebs.ch/project/home-dashboard)
-* 🧠  I'm learning React, Next, Express
+* 🧠  I'm learning Next.js and Vue
 
 ## Languages
 
