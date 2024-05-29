@@ -1,13 +1,15 @@
-# Hi 👋 My name is Nicholas Krebs
+# Hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Nicholas Krebs / «chraebsli»
 
 ## Web Developer
 
-I’m a young IT enthusiast & web developer from Switzerland who is truly interested in web development and other IT stuff. In my spare time, I like to code and strengthen my skills. Furthermore, I’m in a brass band, a scout leader, and a snowboarder in winter.
+I am a young IT enthusiast and web developer from Switzerland who is truly interested in web development and other topics in the field of IT. In my spare time, I enjoy programming and strengthening my skills. I'm also in a brass band, a scout leader and a snowboarder in the winter.
 
-* 🌍  I'm based in Switzerland
-* 🖥️  See my portfolio at [nicholas-krebs.ch](http://nicholas-krebs.ch)
-* ✉️  You can contact me at [nicholas@nicholas-krebs.ch](mailto:nicholas@nicholas-krebs.ch)
-* 🚀  I'm currently working on my [Portfolio](https://github.com/chraebsli/portfolio)
+* 🌍  I live in Switzerland
+* 🖥️  Checkout my [portfolio](https://nicholas-krebs.ch) to learn more about me
+* ✉️  Feel free to contact me @ [contact@nicholas-krebs.ch](mailto:contact@nicholas-krebs.ch)
+* 🚀  I'm currently working at [Crabston GmbH](https://crabston.ch), creating websites and developing tools
+* 🧠  At the moment, I'm learning PHP and Twig and expanding my Grav CMS knowledge
+* 🤝  I'm open to collaborating on websites and web applications
 
 ## Languages
 
